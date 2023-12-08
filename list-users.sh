@@ -35,6 +35,7 @@ REPO_NAME=$2
 		echo "Users with read access to ${REPO_OWNER}/${REPO_NAME}:"
 		echo "$collaborators"
 	fi
+}
 
 # Main Script
 
