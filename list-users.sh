@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # GitHub API URL
-API_URL = "https://docs.github.com"
+API_URL="https://docs.github.com"
 
 # GitHub username and personal access token
 
