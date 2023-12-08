@@ -20,6 +20,7 @@ REPO_NAME=$2
 
    		# Send a GET request to the GitHub API with authentication
      		curl -s -u "${USERNAME}:${TOKEN}" "$url"
+	}
 
 # Func. to list users with read access to this repo
 	function list_users_with_read_access {
